@@ -6,3 +6,6 @@ const (
 )
 
 type handler struct{}
+
+func main() {
+}
